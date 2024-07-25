@@ -50,7 +50,3 @@ A passionate developer working on AI/ML, Data Science and Software Development p
   <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="Windows Terminal">
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
 </p>
-
----
-
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rakheshkrishna2005&bg_color=000000&color=ffffff&line=6bd869&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
