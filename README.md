@@ -51,5 +51,10 @@ A passionate developer working on AI/ML, Data Science and Software Development p
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
 </p>
 
+### GitHub Streak
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakheshkrishna2005&theme=radical" alt="GitHub Readme Streak Stats">
+</div>
+
 ### GitHub Contributions
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rakheshkrishna2005&bg_color=000000&color=ffffff&line=6bd869&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
