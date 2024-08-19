@@ -57,4 +57,4 @@ A passionate developer working on AI/ML, Data Science and Software Development p
 </div>
 
 ### GitHub Contributions
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rakheshkrishna2005&bg_color=000000&color=ffffff&line=6bd869&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rakheshkrishna2005&bg_color=0d1117&color=ffffff&line=00ff88&point=ffffff&area=true&hide_border=true)
