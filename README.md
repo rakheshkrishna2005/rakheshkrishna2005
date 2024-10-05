@@ -63,17 +63,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakheshkrishna2005&theme=radical&card_width=500" alt="GitHub Readme Streak Stats">
 </div>
 
-<h3 align="center">Leetcode Badges</h3>
-<table align="center" style="width: 100%;">
+<h3 align="center">LeetCode Badges</h3>
+<table align="center">
   <tr>
-    <td>
-      <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" alt="Badge 2024-08" height="100"/>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" alt="Badge 2024-08" width="100">
+      <br>
     </td>
-    <td>
-      <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Badge 2024-50" height="100"/>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Badge 2024-50" width="100">
+      <br>
     </td>
-    <td>
-      <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" alt="Badge 2024-09" height="100"/>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" alt="Badge 2024-09" width="100">
+      <br>
     </td>
   </tr>
 </table>
