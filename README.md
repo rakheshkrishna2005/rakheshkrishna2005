@@ -5,18 +5,13 @@
 ---
 
 <h3 align="center">Contact Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/rakhesh-krishna-p/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-<p align="center">
-    <a href="mailto:rakheshkrishnap@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+<div align="center">
+    <a href="https://www.linkedin.com/in/rakhesh-krishna-p"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:rakheshkrishnap@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://rakheshkrishna2005.github.io"><img src="https://img.shields.io/badge/Portfolio-Website-blue" alt="Portfolio Website"></a>
+</div>
 
-<h3 align="center">I Code in</h3>
+<h3 align="center">I Code In</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
@@ -41,8 +36,6 @@
   <img src="https://img.shields.io/badge/Seaborn-2F4F4F?style=flat&logoColor=white" alt="Seaborn">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
 </p>
-
----
 
 <h3 align="center">Tools and IDE</h3>
 <p align="center">
