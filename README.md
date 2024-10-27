@@ -67,16 +67,24 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" alt="Badge 2024-08" width="100">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="Badge 2024-50" width="100">
       <br>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Badge 2024-50" width="100">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Badge 2024-09" width="100">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="Badge 2024-09" width="100">
       <br>
     </td>
     <td align="center">
       <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" alt="Badge 2024-09" width="100">
       <br>
+    </td>
+    <td align="center">
+        <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" alt="Badge 2024-08" width="100">
+        <br>
     </td>
   </tr>
 </table>
@@ -85,7 +93,7 @@
 
 <h3 align="center">GitHub Activity</h3>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakheshkrishna2005&bg_color=0d1117&color=ffffff&line=00ff88&point=ffffff&area=true&hide_border=false">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakheshkrishna2005&bg_color=0d1117&color=ffffff&line=00ff88&point=ffffff&area=true&hide_border=true">
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer" style="width: 100%; height: auto;" />
