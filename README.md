@@ -8,12 +8,12 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/rakhesh-krishna-p"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:rakheshkrishnap@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://rakheshkrishna2005.github.io"><img src="https://img.shields.io/badge/Portfolio-Website-blue" alt="Portfolio Website"></a>
 </div>
 
 <h3 align="center">I Code In</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" alt="Keras">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/NLTK-4285F4?style=flat&logo=nltk&logoColor=white" alt="NLTK">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
 </p>
 
@@ -67,23 +68,23 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="Badge 2024-50" width="100">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" alt="Badge 2024-50" width="100">
       <br>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Badge 2024-09" width="100">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="Badge 2024-09" width="100">
       <br>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="Badge 2024-09" width="100">
+      <img src="https://leetcode.com/static/images/badges/dcc-2024-10.png" alt="Badge 2024-09" width="100">
       <br>
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" alt="Badge 2024-09" width="100">
+      <img src="https://leetcode.com/static/images/badges/dcc-2024-9.png" alt="Badge 2024-09" width="100">
       <br>
     </td>
     <td align="center">
-        <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" alt="Badge 2024-08" width="100">
+        <img src="https://leetcode.com/static/images/badges/dcc-2024-8.png" alt="Badge 2024-08" width="100">
         <br>
     </td>
   </tr>
