@@ -2,7 +2,15 @@
   <img src="https://github.com/rakheshkrishna2005/rakheshkrishna2005/blob/main/Background.png" alt="Background">
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="auto" alt="Centered GIF">
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=2000&color=3A8DF7&center=true&vCenter=true&width=600&lines=Hello👋,+I+am+Rakhesh+Krishna!" alt="Typing SVG" />
+  </a>
+</div>
 
 <h3 align="center">Contact Me</h3>
 <div align="center">
@@ -56,7 +64,9 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=flat&logo=canva&logoColor=white" alt="Canva">
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="auto" alt="Centered GIF">
+</div>
 
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
@@ -90,7 +100,9 @@
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="auto" alt="Centered GIF">
+</div>
 
 <h3 align="center">GitHub Activity</h3>
 <div align="center">
