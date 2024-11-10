@@ -16,6 +16,7 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/rakhesh-krishna-p"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:rakheshkrishnap@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://rakheshkrishna2005.github.io"><img src="https://img.shields.io/badge/Portfolio-Website-blue" alt="Portfolio Website"></a>
 </div>
 
 <h3 align="center">I Code In</h3>
@@ -29,10 +30,10 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" alt="jQuery">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=flat" alt="Express.js">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/NLTK-4285F4?style=flat&logo=nltk&logoColor=white" alt="NLTK">
   </br>
   <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -45,7 +46,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" alt="Keras">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/NLTK-4285F4?style=flat&logo=nltk&logoColor=white" alt="NLTK">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
 </p>
 
@@ -73,6 +73,33 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakheshkrishna2005&theme=radical&card_width=500" alt="GitHub Readme Streak Stats">
   <img src="https://github-readme-stats.vercel.app/api?username=rakheshkrishna2005&show_icons=true&theme=radical&rank_icon=github&card_width=500" alt="GitHub Stats">
 </div>
+
+<h3 align="center">GSSOC Badges</h3>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://gssoc.girlscript.tech/badges/5.png" alt="Badge 1" width="100">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://gssoc.girlscript.tech/badges/4.png" alt="Badge 2" width="100">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://gssoc.girlscript.tech/badges/3.png" alt="Badge 3" width="100">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://gssoc.girlscript.tech/badges/2.png" alt="Badge 4" width="100">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://gssoc.girlscript.tech/badges/1.png" alt="Badge 5" width="100">
+      <br>
+    </td>
+  </tr>
+</table>
+
 
 <h3 align="center">LeetCode Badges</h3>
 <table align="center">
