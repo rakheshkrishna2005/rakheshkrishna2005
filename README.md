@@ -71,7 +71,7 @@
 
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakheshkrishna2005&theme=radical&card_width=500" alt="GitHub Readme Streak Stats">
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakheshkrishna2005&theme=radical&card_width=500" alt="GitHub Readme Streak Stats">-->
   <img src="https://github-readme-stats.vercel.app/api?username=rakheshkrishna2005&show_icons=true&theme=radical&rank_icon=github&card_width=500" alt="GitHub Stats">
 </div>
 
@@ -79,29 +79,29 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://gssoc.girlscript.tech/badges/5.png" alt="Badge 1" width="100">
+      <img src="https://github.com/rakheshkrishna2005/rakheshkrishna2005/blob/main/images/5.png" alt="Badge 1" width="100">
       <br>
     </td>
     <td align="center">
-      <img src="https://gssoc.girlscript.tech/badges/4.png" alt="Badge 2" width="100">
+      <img src="https://github.com/rakheshkrishna2005/rakheshkrishna2005/blob/main/images/4.png" alt="Badge 2" width="100">
       <br>
     </td>
     <td align="center">
-      <img src="https://gssoc.girlscript.tech/badges/3.png" alt="Badge 3" width="100">
+      <img src="https://github.com/rakheshkrishna2005/rakheshkrishna2005/blob/main/images/3.png" alt="Badge 3" width="100">
       <br>
     </td>
     <td align="center">
-      <img src="https://gssoc.girlscript.tech/badges/2.png" alt="Badge 4" width="100">
+      <img src="https://github.com/rakheshkrishna2005/rakheshkrishna2005/blob/main/images/2.png" alt="Badge 4" width="100">
       <br>
     </td>
     <td align="center">
-      <img src="https://gssoc.girlscript.tech/badges/1.png" alt="Badge 5" width="100">
+      <img src="https://github.com/rakheshkrishna2005/rakheshkrishna2005/blob/main/images/1.png" alt="Badge 5" width="100">
       <br>
     </td>
   </tr>
 </table>
 
-
+<!--
 <h3 align="center">LeetCode Badges</h3>
 <table align="center">
   <tr>
@@ -127,6 +127,7 @@
     </td>
   </tr>
 </table>
+-->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="auto" alt="Centered GIF">
