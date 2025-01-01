@@ -16,7 +16,7 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/rakhesh-krishna-p"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:rakheshkrishnap@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://rakheshkrishna2005.github.io"><img src="https://img.shields.io/badge/Portfolio-Website-blue" alt="Portfolio Website"></a>
+    <a href="https://rakheshkrishna.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Website-blue" alt="Portfolio Website"></a>
     <a href="https://linktr.ee/rakheshkrishna"><img src="https://komarev.com/ghpvc/?username=rakheshkrishna2005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"></a>
 </div>
 
