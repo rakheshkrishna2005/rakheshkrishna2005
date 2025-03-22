@@ -26,7 +26,7 @@
 ## <h3 align="center">Tools I Use</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,anaconda,postman,bash,powershell,windows" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,anaconda,postman,vercel,bash,md,notion,windows" />
   </a>
 </p>
 
