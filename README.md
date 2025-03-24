@@ -23,16 +23,21 @@
 ## <h3 align="center">Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,html,css,js,react,nextjs,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,js,react,nextjs,nodejs,express,flask" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=tailwind,mysql,postgresql,mongodb,npm,pnpm,pytorch,tensorflow,opencv" />
+    <img src="https://skillicons.dev/icons?i=tailwind,mysql,postgresql,mongodb,npm,pnpm,sklearn,pytorch,tensorflow,opencv" />
   </a>
 </p>
+
+<!--
+django,fastapi,typescript,graphql,docker,supabase,vim
+langchain,langgraph,vectordatbases
+-->
 
 ## <h3 align="center">Tools I Use</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,bash,postman,vercel,anaconda,notion,windows" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,bash,postman,vercel,anaconda,notion,powershell,windows" />
   </a>
 </p>
 
