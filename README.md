@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="https://github.com/rakheshkrishna2005/rakheshkrishna2005/blob/main/Background.png" alt="Background">
-</div>
-
-<div>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="auto" alt="Centered GIF">
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=header" style="width: 100%; height: auto;" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -23,15 +17,20 @@
 ## <h3 align="center">Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,html,css,js,react,nextjs,nodejs,express,flask" />
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,js,react,nextjs,nodejs,express" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=tailwind,mysql,postgresql,mongodb,npm,pnpm,sklearn,pytorch,tensorflow,opencv" />
+    <img src="https://skillicons.dev/icons?i=tailwind,flask,mysql,postgresql,mongodb,sklearn,pytorch,tensorflow,opencv" />
   </a>
 </p>
 
 <!--
-django,fastapi,typescript,graphql,docker,supabase,vim
-langchain,langgraph,vectordatbases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,js,ts,react,nextjs,nodejs,express,tailwind,graphql" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,mysql,postgresql,supabase,mongodb,sklearn,pytorch,tensorflow,opencv,docker" />
+  </a>
+</p>
 -->
 
 ## <h3 align="center">Tools I Use</h3>
@@ -47,7 +46,8 @@ langchain,langgraph,vectordatbases
   <img src="https://github-readme-stats.vercel.app/api?username=rakheshkrishna2005&show_icons=true&theme=radical&rank_icon=github&card_width=500" alt="GitHub Stats">
 </div>
 
-## <h3 align="center">GSSOC Badges</h3>
+<!--
+<h3 align="center">GSSOC Badges</h3>
 <table align="center">
   <tr>
     <td align="center">
@@ -73,7 +73,6 @@ langchain,langgraph,vectordatbases
   </tr>
 </table>
 
-<!--
 <h3 align="center">LeetCode Badges</h3>
 <table align="center">
   <tr>
@@ -101,6 +100,7 @@ langchain,langgraph,vectordatbases
 </table>
 -->
 
+<!--
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="auto" alt="Centered GIF">
 </div>
@@ -108,5 +108,6 @@ langchain,langgraph,vectordatbases
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakheshkrishna2005&bg_color=0d1117&color=ffffff&line=00ff88&point=ffffff&area=true&hide_border=true">
 </div>
+-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer" style="width: 100%; height: auto;" />
