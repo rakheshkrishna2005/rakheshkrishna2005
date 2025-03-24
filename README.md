@@ -23,9 +23,9 @@
 ## <h3 align="center">Languages & Libraries</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,c,java,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,js,react,nextjs,nodejs,express" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=express,npm,postgresql,mysql,mongodb,pytorch,tensorflow,opencv" />
+    <img src="https://skillicons.dev/icons?i=tailwind,mysql,postgresql,mongodb,npm,pnpm,pytorch,tensorflow,opencv" />
   </a>
 </p>
 
