@@ -20,7 +20,7 @@
     <a href="https://linktr.ee/rakheshkrishna"><img src="https://komarev.com/ghpvc/?username=rakheshkrishna2005&label=Profile%20views&color=0e75b6&style=flat" height="25" alt="Profile Views"></a>
 </div>
 
-## <h3 align="center">Languages & Libraries</h3>
+## <h3 align="center">Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,html,css,js,react,nextjs,nodejs,express" />
@@ -32,7 +32,7 @@
 ## <h3 align="center">Tools I Use</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,anaconda,postman,vercel,bash,md,notion,windows" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,bash,postman,vercel,anaconda,notion,windows" />
   </a>
 </p>
 
