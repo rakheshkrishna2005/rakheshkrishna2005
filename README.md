@@ -1,10 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=header" style="width: 100%; height: auto;" />
 
 <div align="center">
+  <h3>👋 Hi, I'm Rakhesh Krishna - AI/ML Engineer & Full Stack Developer!</h3>
+</div>
+
+##
+
+<!--
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=22&duration=1500&pause=3000&color=3A8DF7&center=true&vCenter=true&width=600&lines=Hello+👋,+I+am+Rakhesh+Krishna!;I'm+an+AI+and+Machine+Learning+Engineer!;I'm+a+Full+Stack+Developer!" alt="Typing SVG" />
   </a>
 </div>
+-->
 
 <h3 align="center">Contact Me</h3>
 <div align="center">
