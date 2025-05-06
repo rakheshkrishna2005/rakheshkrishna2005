@@ -4,6 +4,18 @@
   <h3>👋 Hi, I'm Rakhesh Krishna - AI/ML Engineer & Full Stack Developer!</h3>
 </div>
 
+## 
+
+```python
+class RakheshKrishna:
+    def __init__(self):
+        self.name = "Rakhesh Krishna P"
+        self.based_in = "Chennai, India"
+        self.major = "CSE (AI & ML)"
+        self.achievements = "5x Hackathon Finalist, 3x Tech Competition Wins"
+        self.patent = "1 Published in Artificial Intelligence"
+```
+
 ##
 
 <!--
