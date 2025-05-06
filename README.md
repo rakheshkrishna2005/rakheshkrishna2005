@@ -10,10 +10,8 @@
 class RakheshKrishna:
     def __init__(self):
         self.name = "Rakhesh Krishna P"
-        self.based_in = "Chennai, India"
-        self.major = "CSE (AI & ML)"
-        self.achievements = "5x Hackathon Finalist, 3x Tech Competition Wins"
-        self.patent = "1 Published in Artificial Intelligence"
+        self.major = "Computer Science and Engineering (AI & ML)"
+        self.achievements = "5x Hackathon Finalist, 3x Tech Competition Wins, 1x Patent"
 ```
 
 ##
