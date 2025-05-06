@@ -11,7 +11,7 @@ class RakheshKrishna:
     def __init__(self):
         self.name = "Rakhesh Krishna P"
         self.major = "Computer Science and Engineering (AI & ML)"
-        self.achievements = "5x Hackathon Finalist, 3x Tech Competition Wins, 1x Patent"
+        self.achievements = "3x Tech Competition Wins, 1x Patent, 5x Hackathon Finalist"
 ```
 
 ##
