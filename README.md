@@ -11,7 +11,7 @@
 ```js
 Rakhesh Krishna P
 Computer Science and Engineering - AI/ML
-3x Tech Competition Wins, 1x Patent, 5x Hackathon Finalist
+3x Hackathon Wins, 1x Patent, 5x Hackathon Finalist
 ```
 
 ##
@@ -35,9 +35,9 @@ Computer Science and Engineering - AI/ML
 ## <h3 align="center">Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,html,css,js,react,nextjs,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,js,ts,react,nextjs,nodejs,express" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=tailwind,flask,mysql,postgresql,mongodb,sklearn,pytorch,tensorflow,opencv" />
+    <img src="https://skillicons.dev/icons?i=tailwind,flask,fastapi,mysql,postgresql,mongodb,sklearn,pytorch,tensorflow,opencv" />
   </a>
 </p>
 
