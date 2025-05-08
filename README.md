@@ -6,12 +6,12 @@
 
 ## 
 
-```python
-class RakheshKrishna:
-    def __init__(self):
-        self.name = "Rakhesh Krishna P"
-        self.major = "Computer Science and Engineering (AI & ML)"
-        self.achievements = "3x Tech Competition Wins, 1x Patent, 5x Hackathon Finalist"
+<div align="center">
+  
+```js
+Rakhesh Krishna P
+Computer Science and Engineering - AI/ML
+3x Tech Competition Wins, 1x Patent, 5x Hackathon Finalist
 ```
 
 ##
