@@ -9,9 +9,9 @@
 <div align="center">
   
 ```js
-Rakhesh Krishna P
-Computer Science and Engineering - AI/ML
-3x Hackathon Wins, 1x Patent, 5x Hackathon Finalist
+5x Hackathon Finalist
+3x Hackathon Wins, 1x Patent
+Computer Science & Engineering - AI/ML
 ```
 
 ##
