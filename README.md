@@ -9,7 +9,7 @@
 <div align="center">
   
 ```js
-5x Hackathon Finalist
+6x Hackathon Finalist
 3x Hackathon Wins, 1x Patent
 Computer Science & Engineering - AI/ML
 ```
