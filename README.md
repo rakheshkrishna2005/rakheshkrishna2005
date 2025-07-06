@@ -8,10 +8,10 @@
 
 <h3 align="center">Contact Me</h3>
 <div align="center">
-    <a href="https://www.linkedin.com/in/rakhesh-krishna-p"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/rakhesh-krishna-p" target="_blank" rel="noopener noreferrer"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25" alt="LinkedIn"></a>
     <a href="mailto:rakheshkrishnap@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="25" alt="Gmail"></a>
-    <a href="https://rakheshkrishna.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View-blue" height="25" alt="Portfolio Website"></a>
-    <a href="https://rakheshkrishna.vercel.app/#achievements"><img src="https://img.shields.io/badge/Achievements-View-blue" height="25" alt="Achievements"></a>
+    <a href="https://rakheshkrishna.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-View-blue" height="25" alt="Portfolio Website"></a>
+    <a href="https://rakheshkrishna.vercel.app/#achievements" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Achievements-View-blue" height="25" alt="Achievements"></a>
     <img src="https://komarev.com/ghpvc/?username=rakheshkrishna2005&label=Profile%20views&color=0e75b6&style=flat" height="25" alt="Profile Views">
 </div>
 
