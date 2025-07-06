@@ -4,32 +4,15 @@
   <h3>👋 Hi, I'm Rakhesh Krishna - AI/ML Engineer & Full Stack Developer!</h3>
 </div>
 
-## 
-
-<div align="center">
-  
-```js
-6x Hackathon Finalist
-3x Hackathon Wins, 1x Patent
-Computer Science & Engineering - AI/ML
-```
-
 ##
-
-<!--
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=22&duration=1500&pause=3000&color=3A8DF7&center=true&vCenter=true&width=600&lines=Hello+👋,+I+am+Rakhesh+Krishna!;I'm+an+AI+and+Machine+Learning+Engineer!;I'm+a+Full+Stack+Developer!" alt="Typing SVG" />
-  </a>
-</div>
--->
 
 <h3 align="center">Contact Me</h3>
 <div align="center">
-    <a href="https://www.linkedin.com/in/rakhesh-krishna-p"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/rakhesh-krishna-p"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25" alt="LinkedIn"></a>
     <a href="mailto:rakheshkrishnap@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="25" alt="Gmail"></a>
-    <a href="https://rakheshkrishna.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Website-blue" height="25" alt="Portfolio Website"></a>
-    <a href="https://linktr.ee/rakheshkrishna"><img src="https://komarev.com/ghpvc/?username=rakheshkrishna2005&label=Profile%20views&color=0e75b6&style=flat" height="25" alt="Profile Views"></a>
+    <a href="https://rakheshkrishna.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View-blue" height="25" alt="Portfolio Website"></a>
+    <a href="https://rakheshkrishna.vercel.app/#achievements"><img src="https://img.shields.io/badge/Achievements-View-blue" height="25" alt="Achievements"></a>
+    <img src="https://komarev.com/ghpvc/?username=rakheshkrishna2005&label=Profile%20views&color=0e75b6&style=flat" height="25" alt="Profile Views">
 </div>
 
 ## <h3 align="center">Tech Stack</h3>
@@ -51,7 +34,7 @@ Computer Science & Engineering - AI/ML
 </p>
 -->
 
-## <h3 align="center">Tools I Use</h3>
+## <h3 align="center">Dev Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,github,git,bash,postman,vercel,anaconda,notion,powershell,windows" />
