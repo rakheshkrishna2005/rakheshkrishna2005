@@ -18,9 +18,9 @@
 ## <h3 align="center">Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,html,css,js,ts,react,nextjs,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,js,ts,react,nextjs,tailwind,nodejs,express" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=tailwind,flask,fastapi,mysql,postgresql,mongodb,sklearn,pytorch,tensorflow,opencv" />
+    <img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,postgresql,mongodb,supabase,sklearn,pytorch,tensorflow,opencv,docker" />
   </a>
 </p>
 
