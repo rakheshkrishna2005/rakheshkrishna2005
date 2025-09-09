@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=header" style="width: 100%; height: auto;" />
 
 <div align="center">
-  <h3>👋 Hi, I'm Rakhesh Krishna - AI Engineer & Full Stack Developer!</h3>
+  <h3>👋 Hi, I'm Rakhesh Krishna - AI Engineer & Software Developer!</h3>
 </div>
 
 ##
@@ -12,7 +12,7 @@
     <a href="mailto:rakheshkrishnap@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="25" alt="Gmail"></a>
     <a href="https://rakheshkrishna.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-View-blue" height="25" alt="Portfolio Website"></a>
     <a href="https://rakheshkrishna.vercel.app/#achievements" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Achievements-View-blue" height="25" alt="Achievements"></a>
-    <img src="https://komarev.com/ghpvc/?username=rakheshkrishna2005&label=Profile%20views&color=0e75b6&style=flat" height="25" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=rakheshkrishna2005&label=Profile%20Views&color=0e75b6&style=flat" height="25" alt="Profile Views">
 </div>
 
 ## <h3 align="center">Tech Stack</h3>
