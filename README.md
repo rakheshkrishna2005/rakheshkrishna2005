@@ -41,11 +41,12 @@
   </a>
 </p>
 
+<!-- > 
 ## <h3 align="center">GitHub Stats</h3>
 <div align="center">
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakheshkrishna2005&theme=radical&card_width=500" alt="GitHub Readme Streak Stats">-->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakheshkrishna2005&theme=radical&card_width=500" alt="GitHub Readme Streak Stats">
   <img src="https://github-readme-stats.vercel.app/api?username=rakheshkrishna2005&show_icons=true&theme=radical&rank_icon=github&card_width=500" alt="GitHub Stats">
-</div>
+</div> -->
 
 <!--
 <h3 align="center">GSSOC Badges</h3>
