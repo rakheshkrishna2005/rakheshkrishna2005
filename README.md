@@ -41,6 +41,13 @@
   </a>
 </p>
 
+## <h3 align="center">Contributions</h3>
+<p align="center">
+  <a href="https://github.com/rakheshkrishna2005?tab=repositories">
+    <img src="https://ghchart.rshah.org/rakheshkrishna2005" />
+  </a>
+</p>
+
 <!-- > 
 ## <h3 align="center">GitHub Stats</h3>
 <div align="center">
