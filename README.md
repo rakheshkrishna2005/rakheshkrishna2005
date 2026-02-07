@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=header" style="width: 100%; height: auto;" />
 
 <div align="center">
-  <h3>👋 Hi, I'm Rakhesh Krishna - AI Engineer & Software Developer!</h3>
+  <h3>👋 Hi, I'm Rakhesh Krishna - AI/ML & Software Developer!</h3>
 </div>
 
 ##
